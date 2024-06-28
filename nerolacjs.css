@@ -1,0 +1,509 @@
+body{
+    background-image: url(painting-services-spotlight.jpg); 
+    background-position:0 61px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200vh;
+   height:80vh;
+ }
+
+
+.iconbar{
+    background-color:whitesmoke;
+    margin-top: -1vh;
+    margin-left: -10px;
+    height: 10vh;
+    width:213vh;
+
+}
+
+.iconbar img {
+    padding: 20px;
+    margin-left: 10px;
+    
+}
+.form{
+    width:350px ;
+    height: 415px;
+    border: 10px solid black;
+    border-radius: 10px;
+    border: none;
+margin-left: 150vh;
+margin-top:10vh;
+background-color: #fff;
+text-align: start;
+justify-content: start;
+display: flex;
+
+
+}
+.form h1{
+    padding: 18px;
+    font-size: 3.1vh;
+    font-family:"Raleway", sans-serif ;
+    color: #00205B;
+}
+.f1{
+    border-radius: 2px;
+    border: none;
+    border-bottom: #cfdefc solid 1px;
+    color: #212529;
+    font-family:"Raleway", sans-serif ;
+    margin-left: 17px;
+    font-size: 2.5vh;
+    width: 300px;
+    padding: 10px;
+margin-top: -1.5vh;
+
+    
+}
+.f2{
+    border-radius: 2px;
+    border: none;
+    border-bottom: #cfdefc solid 1px;
+    color: #212529;
+    font-family:"Raleway", sans-serif ;
+    margin-left: 17px;
+    font-size: 2.5vh;
+    width: 300px;
+    padding: 10px;
+    justify-content: left;
+
+}
+.f3{
+    border-radius: 2px;
+    border: none;
+    border-bottom: #cfdefc solid 1px;
+    color: #212529;
+    font-family:"Raleway", sans-serif ;
+    margin-left: 17px;
+    font-size: 2.5vh;
+    width: 300px;
+    padding: 10px;
+}
+.f4{border-radius: 2px;
+    border: none;
+    border-bottom: #cfdefc solid 1px;
+    color: #212529;
+    font-family:"Raleway", sans-serif ;
+    margin-left: 17px;
+    font-size: 2.5vh;
+    width: 300px;
+padding: 10px;
+
+    }
+.f5{
+font-size: 1.8vh;
+    color:#6c757d;
+    font-family:"Raleway", sans-serif ;
+    padding: 16px;
+    
+
+}
+.f6{
+    background:transparent linear-gradient(344deg, #e7194f 0%, #ff5884 100%) ;
+    font-family: Arial, Helvetica, sans-serif;
+ color: white;
+ border-radius: 5px;
+ border-color: #E7194F;
+ padding: 10px;
+ width: 160px;
+ margin-left: 16px;
+ margin-top: -1vh;
+ font-size: 2.5vh;
+}
+
+.a{
+    margin-top: 25vh;
+    color: #00205B;
+    font-weight: 700;
+    font-size: 6vh;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    
+}
+.a1{
+    color: #212529;
+    font-weight: 400;
+    font-size: 1rem;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+padding: 5px;
+
+
+}
+.form1{
+     width: 40vh;
+     height: 28vh;
+     color: #ffffff;
+     -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 32, 91, 0.1);
+    padding: 1.5rem;
+    text-align: center;
+    margin-left: 25vh;
+}
+.form2{
+    width: 40vh;
+    height: 28vh;
+    color: #ffffff;
+    -webkit-text-size-adjust: 100%;
+   -webkit-tap-highlight-color: transparent;
+   border-radius: 4px;
+   box-shadow: 0 0 10px rgba(0, 32, 91, 0.1);
+   padding: 1.5rem;
+   text-align: center;
+   margin-left: 80vh;
+   margin-top: -35.1vh;
+}
+.form3{
+    width: 40vh;
+    height: 25vh;
+    color: #ffffff;
+    -webkit-text-size-adjust: 100%;
+   -webkit-tap-highlight-color: transparent;
+   border-radius: 4px;
+   box-shadow: 0 0 10px rgba(0, 32, 91, 0.1);
+   padding: 1.5rem;
+   text-align: center;
+  margin-left: 135vh;
+  margin-top: -35.2vh;
+}
+.form1 img{
+    height:60px ;
+    width: 60px;
+}
+.form2 img{
+    height:60px ;
+    width: 60px;
+}
+.form3 img{
+    height:60px ;
+    width: 60px;
+}
+.form1 h1{
+    font-size: 20px;
+    color: #00205B;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form2 h1{
+    font-size: 20px;
+    color: #00205B;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form3 h1{
+    font-size: 20px;
+    color: #00205B;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form1 p{
+    color: #343a40;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+.form2 p{
+    color: #343a40;
+    font-family: Arial, Helvetica, sans-serif;
+ font-size: 2.3vh;
+ padding: 5px;
+}
+.form3 p{
+    color: #343a40;
+    font-family: Arial, Helvetica, sans-serif;
+ font-size: 2.3vh;
+ padding: 5px;
+}
+.page3{
+    text-align: center;
+    justify-content: center;
+    margin-top: 10vh;
+}
+.page3 button{
+    padding: 3px 10px;
+    background: #eeeeee;
+    border-radius: 6px;
+    border: none;
+    font-size: 12px;
+    font-weight: 700;
+    color: #00205b;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10vh;
+}
+.page3 h1{
+    font-weight: 700;
+    color: #00205B;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1vh;
+    margin-left:3.5vh ;
+}
+.page3 p{
+    color: #222222;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -0.8vh;
+    margin-left: 3vh;
+}
+.img1{
+    margin-top: 5vh;
+     margin-left: 20px;
+}
+.img2{
+    margin-left: 55vh;
+    margin-top: -59.5vh;
+}
+.img3{
+    margin-top:-59.8vh ;
+    margin-left: 107.5vh;
+
+}
+.img4{
+    margin-top: -59vh;
+    margin-left: 160vh;
+    
+}
+.img1 p{
+    margin-top:-26vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 4vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img1 label{
+    margin-top:-26vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 2.5vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.img2 p{
+    margin-top:-30vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 4vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img2 label{
+    margin-top:-26vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 2.5vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.img3 p{
+    margin-top:-40vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 4vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img3 label{
+    margin-top:-30vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 2.5vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.img4 p{
+    margin-top:-26.5vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 4vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img4 label{
+    margin-top:-22vh;
+    color:#ffffff ;    font-weight: 600;
+    font-size: 2.5vh;
+    margin-left: 3vh;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.radio input{
+    display: none;
+}
+.manual{
+position: absolute;
+margin-top: 10vh;
+display: flex;
+margin-left: 103.5vh;
+}
+.manuals{
+    border: 0.2px solid #6c757d;
+    border-radius: 5px;
+    padding: 2.5px;
+    background-color: #6c757d ;
+    cursor: pointer;
+}
+.manuals:not(:last-child){
+    margin-right: 13px;
+}
+.manuals:hover{
+    background-color: #E7194F;
+}
+
+.forms{
+    margin-top: 28vh;
+    background-color: #00205B;
+    height: 105vh;
+    width: 106.7%;
+    margin-left: -10px;
+}
+.tag1{
+    margin-top: 5vh;
+    margin-left: 25px;
+   background: transparent;
+   border: none;
+    color: #f8f9fa;
+    font-size: 30px;
+    border-left: #E7194F solid 2px;
+    padding: 0 1.5rem;
+    width: 400px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.tag2{
+    background: transparent linear-gradient(344deg, #e7194f 0%, #ff5884 100%) 0% 0% no-repeat padding-box;
+    border-color: #E7194F;
+    transition: all 0.3s ease-in-out;
+    margin-left: 176vh;
+    margin-bottom: -5vh;
+    width: 200px;
+    height: 40px;
+    color: #f8f9fa;
+    border-radius: 5px;
+    font-size: 3vh;
+    margin-top: -40vh;
+}
+.footer1{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.26);
+    padding: 0 0 2.5rem 0;
+    margin-bottom: 4rem;
+    margin-top: -10px;
+}
+.logo{
+    margin-left: 25px;
+}
+.iconbars{
+    margin-top: -61vh;
+    width: 30vh;
+    background: none;
+    border: none;
+    margin-left: 15px;
+}
+.iconbars label{
+    font-weight: 700;
+    font-size: 3vh;
+    margin-bottom: 0.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    
+
+}
+.iconbars a{
+    padding: 5px;
+    color: #E7194F;
+    font-size: 25.2px;
+}
+.address p{
+  color: #ffffff;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top: 23vh;
+  margin-left: 25px;
+  padding: 5px;
+
+}
+.menubar{
+    background-color: #212529;
+    width: 213.5vh;
+    height: 7vh;
+    margin-top: 46vh;
+    margin-left: -10px;
+   
+    align-items: center;
+    
+}
+.menubars {
+    margin-top: -5vh;
+    font-size: 2vh;
+    padding: 5px;
+    margin-left: 15px;
+
+}
+.menubars a{
+    padding-left: 22px;
+}
+.menubars :not(:last-child){
+    margin-right:10px;
+}
+.row1{
+    margin-left: 56.5vh;
+    color:#ffffff ;
+    margin-top: -76vh;
+    font-size: 2vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.row1 h1{
+    font-size: 2.7vh;
+}
+.row2{
+    margin-left: 85vh;
+    color:#ffffff ;
+    margin-top: -44.9vh;
+    font-size: 2vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.row2 h1{
+    font-size: 2.8vh;
+
+}
+.row3{
+    margin-left: 109vh;
+    color:#ffffff ;
+    margin-top: -47vh;
+    font-size: 2vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.row4{
+    margin-left: 129vh;
+    color:#ffffff ;
+    margin-top: -49.6vh;
+    font-size: 2vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.row4 h1{    font-size: 2.8vh;}
+.row5{
+    margin-left: 156vh;
+    color:#ffffff ;
+    margin-top: -30.5vh;
+    font-size: 2vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.row5 h1{    font-size: 2.8vh;}
+.row6{
+    margin-left: 181vh;
+    color:#ffffff ;
+    margin-top: -26.1vh;
+    font-size: 2vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.row6 h1{    font-size: 2.8vh;}
